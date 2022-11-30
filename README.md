@@ -1,2 +1,5 @@
-# Installer
-Offical Installer
+# Offical MaximClient Installer
+
+Requires Java to run!
+
+
